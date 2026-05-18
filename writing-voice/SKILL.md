@@ -95,7 +95,7 @@ Brevi. Medie 10-15 parole. Picchi da 4-6 parole per enfasi, usati con intenzione
 
 ### Punteggiatura
 
-Dash ( — ) per inserzioni esplicative e fratture logiche. Punto fermo come pausa tattica, non solo come terminatore. Frecce ( → ) per sequenze logiche e dipendenze.
+Punto fermo come pausa tattica, non solo come terminatore. Frecce ( → ) per sequenze logiche e dipendenze. Mai em dash ( — ), mai doppio trattino ( -- ).
 
 ### Connettori di cambio direzione
 
@@ -304,25 +304,23 @@ Le posizioni si dichiarano, non si propongono.
 
 ### STYLE PATTERNS
 
-#### 13. Dash: uso corretto vs. artefatti
+#### 13. Em dash e doppio trattino — vietati entrambi
 
-**Regola:**
-- `—` (em dash): **permesso e raccomandato** per inserzioni esplicative e fratture logiche. Usato con intenzione, non come riflesso.
-- `--` (doppio trattino): **mai**. È un artefatto da tastiera/AI, non punteggiatura reale.
+**Regola:** né `—` (em dash) né `--` (doppio trattino). Mai, in nessun contesto.
 
-**Problema da evitare:** em dash usato in modo riflessivo su ogni frase, imitando la scrittura di vendita "incisiva". Il problema non è il carattere — è l'abuso.
+Usa virgola, punto, o due punti al loro posto.
 
-**Before (doppio trattino -- da eliminare sempre):**
+**Before:**
+> The term—promoted by Dutch institutions—not by the people themselves—continues even in official documents.
+
+**After:**
+> The term is primarily promoted by Dutch institutions, not by the people themselves, even in official documents.
+
+**Before:**
 > The project is on track -- we expect delivery by Friday.
 
 **After:**
-> The project is on track — we expect delivery by Friday.
-
-**Before (em dash overuse, troppi in una frase):**
-> The term—promoted by Dutch institutions—not by the people themselves—continues—even in official documents.
-
-**After:**
-> The term is primarily promoted by Dutch institutions, not by the people themselves — even in official documents.
+> The project is on track. We expect delivery by Friday.
 
 ---
 
